@@ -6,7 +6,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
-         "ext-bcmath": "*",
+	 "ext-bcmath": "*",
         "ext-mbstring": "*",
         "ext-pdo_sqlite": "*",
         "ext-sqlite3": "*",
